@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\win\\Downloads\\mysql-connector-java-8.0.30.jar",
+        "c:\\Users\\win\\Downloads\\jar_files\\mysql-connector-java-8.0.30.jar"
+    ],
+    "cSpell.words": [
+        "gamematch"
+    ]
+}
